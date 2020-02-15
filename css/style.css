@@ -1,0 +1,49 @@
+.line {
+  text-decoration: line-through;
+}
+*{
+  box-sizing: border-box;
+}
+html{
+  font-size:10px;
+
+}
+
+.hero{
+  display: block;
+  float:left;
+  width:100%;
+  background-image: url("../images/woodBKGRND.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.paper{
+  display: block;
+  float:left;
+  width:80%;
+  margin: 5% 10%;
+  background-image: url("../images/ntbkBKGND.png");
+  background-repeat: repeat;
+  background-size: cover;
+  font-family: 'Permanent Marker', cursive;
+
+}
+
+.displayInput,.shownList,.bottomSection{
+  display: block;
+  float:left;
+  width:100%;
+  text-align:center;
+  font-size:3rem;
+
+}
+
+.shownList ul{
+  list-style-type: none;
+
+}
+
+.bottomButtons button,#addToList {
+  border-radius:55%;
+}
