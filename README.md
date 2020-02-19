@@ -1,6 +1,8 @@
 # toDoListAE
  Project scope: Design a full funtional To-Do List. This web application has the ability to track user input into list form,be mark as completed and remove complete items from list within a single key stroke.
  
+ 
+ ![ screenshot of application](https://github.com/FullStackAbbs/toDoListAE/blob/master/images/ntbkBKGND.png)
 # How It's Made:
  Tech used: HTML, CSS, JavaScript
 
